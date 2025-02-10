@@ -6,6 +6,6 @@ The website is: https://scgerm-atlas.sjtu.edu.cn/website/#/home
 To facilitate the researchers in utilizing single-cell transcriptional atlas in the C. elegans L4 stage germline, we constructed a user-friendly interactive web resource ([http://](https://scgerm-atlas.sjtu.edu.cn/website/#/home)), which allows users to flexibly obtain information about their genes of interest. First, users can query the platform to explore the expression pattern of genes in the L4 germline. Additionally, we provide an atlas of gene expression for spermatogenesis. Furthermore, we provide the relationship between TF and genes during spermatogenesis to facilitate users in understanding the regulatory role of TF in spermatogenesis. Overall, we have presented a map of germline transcriptional atlas at single-cell resolution.
 
 # demo show
-![My Image](website/homepage.png)
+![My Image](website/homepage.jpg)
 
 # dependency
