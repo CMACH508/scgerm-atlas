@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6b71bbcf-d287-4c63-be71-e757c0234515)# scgerm-atlas
+# scgerm-atlas
 This reporsitory provides source code for building single cell gene expression profiling visualization server for cgerm-atlas.
 The website is: https://scgerm-atlas.sjtu.edu.cn/website/#/home
 
