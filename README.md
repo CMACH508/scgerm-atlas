@@ -28,3 +28,8 @@ Explore the demo visualizations of L4 stage data:
 - **mysql version: 8.0.41-0ubuntu0.22.04.1 for Linux on x86_64 ((Ubuntu))**
 - **nginx version: nginx/1.18.0 (Ubuntu)**
 - **python: Python 3.11.11**
+
+# **Contact**
+- Zeng Lin Email: zenglin10@sjtu.edu.cn
+- CMaCH, Department of Computer Sicence and Engineering, Shanghai Jiao Tong University.
+- This project was conducted under the esteemed supervision of Dr. Shen Enzhi. We extend our heartfelt gratitude to web engineer Qin Zhizhen for his invaluable assistance in the construction and initiation of the website.
