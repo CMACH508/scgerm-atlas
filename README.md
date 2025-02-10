@@ -20,7 +20,7 @@ Overall, SCGerm-Atlas presents a comprehensive, single-cell resolution transcrip
 
 Explore the demo visualizations of L4 stage data:
 
-![L4 Data UMAP](website/l4_data_umap_reivsed-01.png)
+<img src="website/l4_data_umap_reivsed-01.png" alt="L4 Data UMAP" width="300" height="200"/>
 
 
 # **Dependencies**
