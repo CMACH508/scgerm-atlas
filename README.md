@@ -14,7 +14,7 @@ Overall, SCGerm-Atlas presents a comprehensive, single-cell resolution transcrip
 
 ## **Screenshot**
 
-![Homepage](website/homepage.jpg)
+![Homepage](Screensho.png)
 
 ## **Demo**
 
